@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.card__img{
+    width: 250px;
+    height: 200px;
+   
+}
+.headings{
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+.card_category{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+}
+.cards1{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0 auto;
+    float: left;
+    padding: 10px;
+ text-align: center;
+ text-transform: capitalize;
+
+
+}
+.mybtn{
+    margin-bottom: 10px;
+}
+
+span .card_category{
+    padding-top: 100px;
+}
